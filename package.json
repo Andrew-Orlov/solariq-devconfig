@@ -1,0 +1,19 @@
+{
+  "name": "solariq-devconfig",
+  "version": "1.0.0",
+  "description": "Unified development configuration for the Solariq ecosystem",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrew Orlov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrew-Orlov/solariq-devconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Andrew-Orlov/solariq-devconfig/issues"
+  },
+  "homepage": "https://github.com/Andrew-Orlov/solariq-devconfig#readme"
+}
